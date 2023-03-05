@@ -1,0 +1,13 @@
+{
+  "domain": "hifirose_ra180",
+  "name": "HifiRose ra180",
+  "version": "0.1",
+  "integration_type": "entity",
+  "documentation": "https://github.com/danieleva/hifirose_ra180",
+  "issue_tracker": "https://github.com/danieleva/hifirose_ra180/issues",
+  "requirements": [],
+  "dependencies": [],
+  "config_flow": false,
+  "codeowners": ["@danieleva"],
+  "iot_class": "local_polling"
+}
